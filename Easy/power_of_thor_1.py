@@ -1,3 +1,5 @@
+#python3
+
 """
     Input format:
         Initialization input:
